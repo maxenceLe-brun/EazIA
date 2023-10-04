@@ -124,9 +124,21 @@ body{
 			color: #FBF9EF;
 			filter: invert(85%);
 		}
-		.logos{
-			width: 10%;
+		.logo1{
+			width: 3%;
 			position: absolute;
-			margin-left: 85%;
-			margin-top: 38%;
+			margin-left: 45%;
+			margin-top: 45%;
+		}
+		.logo2{
+			width: 3%;
+			position: absolute;
+			margin-left: 50%;
+			margin-top: 45%;
+		}
+		.logo3{
+			width: 3%;
+			position: absolute;
+			margin-left: 55%;
+			margin-top: 45%;
 		}
