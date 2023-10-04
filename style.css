@@ -1,0 +1,132 @@
+body{
+			background-color: #FBF9EF;
+		}
+		.pink1{
+			font-family: 'Brasika Display - Trial', sans-serif;
+			background-color: #FDAEEE;
+			position: absolute;
+			text-align: center;
+			margin-left: 8%;
+			margin-top: 3%;
+			width: 18%;
+			height: 16%;
+			border-style: solid;
+			border-width: 2px;
+			border-radius: 80px;
+			border-color: #000000;
+		}
+		.blue1{
+			font-family: 'Brasika Display - Trial', sans-serif;
+			background-color: #BDDDFA;
+			font-size: 310%;
+			position: absolute;
+			text-align: center;
+			margin-left: 16%;
+			margin-top: 8%;
+			width: 64%;
+			height: 44%;
+			border-style: solid;
+			border-width: 2px;
+			border-color: black;
+			border-radius: 45px;
+		}
+		.pink2{
+			font-family: 'Glacial Indifference', sans-serif;
+			text-decoration: none;
+			color: black;
+			font-size: 18px;
+			background-color: #FDAEEE;
+			position: absolute;
+			text-align: center;
+			margin-left: 73%;
+			margin-top: 26%;
+			width: 18%;
+			height: 16%;
+			border-style: solid;
+			border-width: 2px;
+			border-radius: 80px;
+			border-color: #000000;
+		}
+		.green{
+			font-family: 'Glacial Indifference', sans-serif;
+			background-color: #A5F3AD;
+			font-size: 24px;
+			position: absolute;
+			text-align: center;
+			margin-left: 15%;
+			margin-top: 36%;
+			width: 66%;
+			height: 15%;
+			border-style: solid;
+			border-color: black;
+			border-width: 2px;
+			border-radius: 80px;
+		}
+		.blue2{
+			background-color: #BDDDFA;
+			position: absolute;
+			margin-left: 73.5%;
+			margin-top: 36%;
+			width: 7.5%;
+			height: 15%;
+			border-style: solid;
+			border-width: 2px;
+			border-color: black;
+			border-radius: 80px;
+		}
+		.star1{
+			position: absolute;
+			margin-top: ;
+			margin-left: ;
+			width: ;
+			height: ;
+
+		}
+		.star2{
+			position: absolute;
+			margin-top: ;
+			margin-left: ;
+			width: ;
+			height: ;
+
+		}
+		.star3{
+			position: absolute;
+			margin-top: ;
+			margin-left: ;
+			width: ;
+			height: ;
+		}
+		.arrow1{
+			position: absolute;
+			-webkit-transform: scaleX(-1);
+			transform: scaleX(-1) rotate(-60deg);
+			margin-top: 15%;
+			margin-left: 85%;
+			width: ;
+			height: ;
+		}
+		.arrow2{
+			position: absolute;
+			margin-top: 25%;
+			margin-left: -1%;
+			width: 22%;
+			height: 22%;
+		}
+		.arrow3{
+			position: absolute;
+			transform: rotate(90deg);
+			margin-top: 35.5%;
+			margin-left: 75%;
+			object-fit: none;
+		}
+		.text{
+			color: #FBF9EF;
+			filter: invert(85%);
+		}
+		.logos{
+			width: 10%;
+			position: absolute;
+			margin-left: 85%;
+			margin-top: 38%;
+		}
